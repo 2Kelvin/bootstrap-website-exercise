@@ -1,0 +1,86 @@
+.mainPic {
+    background-image: url(images/pic05.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 60vh;
+    padding-top: 4%;
+}
+
+.mainPic img {
+    width: 40px;
+    height: 40px;
+}
+
+.font-italic {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*Statement of faith*/
+.statement {
+    padding: 2% 0%;
+}
+
+.oneR {
+    height: 33vh;
+    padding: 0% 14%;
+    margin-bottom: 3%;
+}
+
+.oneR img {
+    width: 40px;
+    height: 40px;
+}
+
+/*The Red Section*/
+.twoR {
+    height: 15vh;
+    padding: 2% 14%;
+    margin-bottom: 0%;
+}
+
+.twoR img {
+    width: 14px;
+    height: 14px;  
+}
+
+.twoR button {
+    margin-left: 30%;
+    margin-top: 1%;
+    padding: 2% 6%;
+    font-size: 80%;
+    border-radius: 1px;
+}
+/*Grey Area*/
+.grey {
+    margin: 0%;
+    height: 25vh;
+    padding: 2% 13%;
+    background-color: rgb(216, 216, 216);
+}
+
+.grey img {
+    width: 14px;
+    height: 14px;  
+}
+
+.countDown {
+    padding: 6% 2%;
+}
+
+/*Events*/
+.events {
+    height: 35vh;
+    margin: 0%;
+    padding: 2% 13%;
+}
+
+.events img {
+    width: 14px;
+    height: 14px;  
+}
+
+#norm {
+    width: 245px;
+    height: 150px;
+}
